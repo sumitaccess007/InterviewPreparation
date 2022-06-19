@@ -2,7 +2,7 @@
 Interview Preparation for Product Based Companies
 
 # 🔥Interview Preparation🚀
-<img src="">
+<img src="https://github.com/sumitaccess007/InterviewPreparation/blob/main/Banner.png">
 
 
 ## Connect with me📞
